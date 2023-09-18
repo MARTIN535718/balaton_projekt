@@ -1,0 +1,67 @@
+projekt vezető: Kis Gergely
+teknikáért felelős: Kotehncz Martin
+prezentációért felelős: Lenhardt Károly
+
+Balatoni Projekt
+
+Martin létrehozta a github repositoryt, hozzá adta Károlyt illetve Gergelyt.
+
+
+Terv:
+A projekt megvalósítását PowerPointban tervezzük.
+Egy prezentációt tervezünk készíteni, amelyben bemutatjuk a Balaton körüli érdekességeket. 
+
+
+Cél: A terméket határidőn belül elkészíteni, élvezhető, letisztult élvezhető prezentációt készíteni illetve azt elfogadható módon előadni.
+
+
+Feladatok:
+
+	Kothencz Martin: Készíti a prezentációt
+	
+	Kis Gergely: Felügyeli a munkát, információt/anyagot gyűjt, segít az esetleges elakadásokban
+
+
+	Lenhardt Károly: A prezentáció elkészítésében segít és prezentálja a kész terméket, dokumentációt ír 
+	információt/anyagot gyűjt, segít az esetleges elakadásokban
+
+
+Nehézségek: 
+
+	- Az animációk kiválasztása, rendezése
+	- A dizájn egyeztetése
+	- Az animációk időzítése, megvalósítása
+	- Haladni a feladatokkkal (időigényes volt a munkánk)
+	- Átérezni azt, hogy mi lesz élvezhető a közönségünknek, ezt megvalósítani
+	- A diák közti váltás beállítása
+	- A térképen mozgó autó helyes beállítása
+
+
+Mérföldkövek: 
+	
+	- Az animációk pontos beállításai
+	- A szövegek végleges formája
+	- Az oldalról belebegő szöveg pontos kinézete 
+	- A térképen mozgó autó jól mozgott
+	- A prezentáció összeállta
+
+
+
+2023.09.13-án este összeült a csapat, és megkezdődött az ötletelés. Arra jutottunk, hogy 3-3 északi illetve déli parti várost fogunk 
+bemutatni, melyből négyhez Károly illetőleg kettőhöz Gergely keresett információt, illetve ami fontos, hogy PowerPointot fogunk használni. 
+Az első felmerülő nehézségünk a PowerPointon belül az animáció illetve a prezentáció kinézete volt, de viszonylag egyszerűen 
+megtudtuk oldani. Megkezdődött a közös munka, mindenki nekilátott a saját feladatának, és közben segítette a másikat. A munka végére eljutottunk egy kezdetleges prezentációig, és volt egy képünk arról, hogy hogyan és mit is 
+szeretnénk fejleszteni majd a jövőben.
+
+
+
+2023.09.16-án ismét dolgozni kezdtünk. Fejlesztettük a prezentációt, egyeztettük a végleges animációt illetve a végleges dizájnt. 
+Szerkesztettünk a szövegeken, megpróbáltuk a végleges kinézetet elképzelni. Mindenki igyekezett teret adni a másiknak, mindenki ötleteit próbáltuk megvalósítani, és közösen haladtunk előre.
+Fokozatosan haladtunk előre, míg el nem jutottunk addig, hogy a negyede kész legyen a projektnek.
+
+
+
+2023.09.18-án ültünk össze ismét. Az utolsó fázisban volt a projektünk, lassan de biztosan kezdtük látni a fényt az alagút végén.
+Mindent a végleges formájára formáztunk, és elkészítettük a prezentáció végleges szövegeit, illetve végleges beállításait. Feltüntettük a forrást is, amely a prezentáció
+elkészítése során a Wikipédia volt. Miután elkészült a végleges termék közösen átnéztük, az egészet, hogy ne legyen benne hiba, és minden pontosan a helyére kerüljön.
+Majd miután mindennel végeztünk Gergely feltöltötte a kész terméket illetve a dokumentációt a határidő előtti napon.
