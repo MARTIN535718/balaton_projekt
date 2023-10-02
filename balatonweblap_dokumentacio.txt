@@ -23,7 +23,7 @@ Feladatok:
 	Kis Gergely: Készíteti a térképet, és segít az oldalunk elkészítésében
 
 
-	Lenhardt Károly: Dokumentációt ír, segíte az oldal elkészítésében, összegyűjti a szükséges
+	Lenhardt Károly: Dokumentációt ír, segíte az oldal elkészítésében,térkép elkészítésében segít, összegyűjti a szükséges
 	adatokat, információkat, bemutatja a kész terméket
 
 
