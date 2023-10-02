@@ -1,0 +1,49 @@
+projekt vezető: Kis Gergely
+technikáért felelős: Kotehncz Martin
+prezentációért felelős: Lenhardt Károly
+
+Balatoni Projekt
+
+Martin létrehozta a github repositoryt, hozzá adta Károlyt illetve Gergelyt.
+
+
+Terv:
+A projekt megvalósítását HTML-ben és CSS-ben tervezzük.
+Egy prezentációt tervezünk készíteni, amelyben bemutatjuk a Balaton körüli érdekességeket. 
+
+
+Cél: A terméket határidőn belül elkészíteni, és azt élvezhetően, érdekesen előadni.
+
+
+Feladatok: 
+
+	Kothencz Martin: Felelős a főoldalért, dizájnért illetve a technikáért
+
+
+	Kis Gergely: Készíteti a térképet, és segít az oldalunk elkészítésében
+
+
+	Lenhardt Károly: Dokumentációt ír, segíte az oldal elkészítésében, összegyűjti a szükséges
+	adatokat, információkat, bemutatja a kész terméket
+
+
+
+
+Nehézségek:
+
+	- A térképen lévő célpontok bevitele
+	- Az oldal kinézete
+ 
+
+Mérföldkövek:
+
+	- Sikerült megvalósítani a térképet
+	- Kialakult a végleges dizájn
+
+
+
+
+2023.09.28-án volt az első összeülés. Átbeszéltük a feladatköröket, és magát a feladatot is. Mindenki elkezdett kutakodni az interneten, és arra a megoldásra jutottunk, hogy egyenlőre JavaScript nélkül HTML és CSS segítségével fogunk dolgozni. Az első etap végére sikerült a weblap illetve a térkép alapját összehozni, továbboakban a feladatunk ezt fejleszteni és haladni a véglegesség felé.
+
+
+2023.10.02-án volt a második összeülés. Folytattuk a közös munkát, mivel mindenki dolgozott külön-külön (egyedül) is, nem volt egészen jól tudtunk haladni, és az etap végére egy majdnem végleges dizájnt illetve készülőfélben lévő terméket tudtunk kiadni a kezeink közül.
