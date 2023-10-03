@@ -1,5 +1,5 @@
 #fo_box {
-  width: 1500px;
+  width: 1700px;
   margin: auto; 
 
 }
@@ -21,9 +21,10 @@ body{
 }
 
 iframe{
-    width: 90%;
+    width: 50%;
     height: 700px;
     border-radius: 16px;
+    margin-right: auto;
 }
 
 .topnav {
