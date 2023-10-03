@@ -1,6 +1,9 @@
-projekt vezető: Kis Gergely
+﻿projekt vezető: Kis Gergely
 technikáért felelős: Kotehncz Martin
 prezentációért felelős: Lenhardt Károly
+
+
+
 
 Balatoni Projekt
 
@@ -33,6 +36,7 @@ Nehézségek:
 
 	- A térképen lévő célpontok bevitele
 	- Az oldal kinézete
+	- Az oldalon lévő szövegek elrendezése, elhelyezése
  
 
 Mérföldkövek:
@@ -43,7 +47,14 @@ Mérföldkövek:
 
 
 
-2023.09.28-án volt az első összeülés. Átbeszéltük a feladatköröket, és magát a feladatot is. Mindenki elkezdett kutakodni az interneten, és arra a megoldásra jutottunk, hogy egyenlőre JavaScript nélkül HTML és CSS segítségével fogunk dolgozni. Az első etap végére sikerült a weblap illetve a térkép alapját összehozni, továbboakban a feladatunk ezt fejleszteni és haladni a véglegesség felé.
+2023.09.28-án volt az első összeülés. Átbeszéltük a feladatköröket, és magát a feladatot is. Mindenki elkezdett kutakodni az interneten, és arra a megoldásra jutottunk, hogy egyenlőre JavaScript nélkül HTML 
+és CSS segítségével fogunk dolgozni. Az első etap végére sikerült a weblap illetve a térkép alapját összehozni, továbboakban a feladatunk ezt fejleszteni és haladni a véglegesség felé.
 
 
-2023.10.02-án volt a második összeülés. Folytattuk a közös munkát, mivel mindenki dolgozott külön-külön (egyedül) is, nem volt egészen jól tudtunk haladni, és az etap végére egy majdnem végleges dizájnt illetve készülőfélben lévő terméket tudtunk kiadni a kezeink közül.
+2023.10.02-án volt a második összeülés. Folytattuk a közös munkát, mivel mindenki dolgozott külön-külön (egyedül) is, nem volt egészen jól tudtunk haladni, és az etap végére egy majdnem végleges dizájnt 
+illetve készülőfélben lévő terméket tudtunk kiadni a kezeink közül. A projekt jelenlegi állása szerint készen van főtérkép, és a 8 kiemelt városról a térképek leszámítva a látványosságokat bemutató térképet.
+
+
+
+2023.10.03-án volt a harmadik összeülés. Ez az etap az IKT órán zajlott, és miután sikerült megtalálni a helyünket, és bejelentkezni neki is láttunk a munkának. Folytattuk a dokumentáció írását, és a weblapon lévő munkálatokat is. 
+Időközben elkészült a menüsorunk is amellyel szuperül tudunk navigálni a weblapon.
