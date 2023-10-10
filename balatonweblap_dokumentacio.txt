@@ -43,12 +43,13 @@ Mérföldkövek:
 
 	- Sikerült megvalósítani a térképet
 	- Kialakult a végleges dizájn
+	- Elrendeztük a szövegeket a linkekhez, és a térképekhez igazítottuk
 
 
 
 
 2023.09.28-án volt az első összeülés. Átbeszéltük a feladatköröket, és magát a feladatot is. Mindenki elkezdett kutakodni az interneten, és arra a megoldásra jutottunk, hogy egyenlőre JavaScript nélkül HTML 
-és CSS segítségével fogunk dolgozni. Az első etap végére sikerült a weblap illetve a térkép alapját összehozni, továbboakban a feladatunk ezt fejleszteni és haladni a véglegesség felé.
+és CSS segítségével fogunk dolgozni, egyedi Google maps-et használva. Az első etap végére sikerült a weblap illetve a térkép alapját összehozni, továbboakban a feladatunk ezt fejleszteni és haladni a véglegesség felé.
 
 
 2023.10.02-án volt a második összeülés. Folytattuk a közös munkát, mivel mindenki dolgozott külön-külön (egyedül) is, nem volt egészen jól tudtunk haladni, és az etap végére egy majdnem végleges dizájnt 
