@@ -51,7 +51,7 @@ h1 {
 
 
 
-#lablec {
+.lablec {
     border: 9px solid black;
     background-color: #1b1725;
     margin-top: 30%;
@@ -60,20 +60,30 @@ h1 {
     padding: 10PX;
 }
 
+
+.forras {
+    text-align: center;
+    color: wheat;
+    background-color: #1b1725;
+    margin: 10px;
+}
+
+.forras a {
+    color: wheat;
+    background-color: #1b1725;
+}
+
+p.lablec {
+    background-color: #1b1725;
+    margin: 10px;
+}
+
 .keszit_p {
     background-color: #1b1725;
     margin-top: auto;
     color: white;
     text-align: left;
 }
-
-.link {
-    background-color: #1b1725;
-    color: wheat;
-    text-align: center;
-    
-}
-
 
 #felso_sor {
     width: 80%;
@@ -93,10 +103,19 @@ h1 {
 
 }
 
-.boxok1 h2, li, ul, a, p{
+.boxok1 h2, li, ul{
     background-color: #333;
     color: white;
     text-align: center;
+}
+
+.boxok1 a {
+    background-color: #333;
+    color: white;
+}
+
+.boxok1 a:hover {
+    color: #d0bdf4;
 }
 
 
@@ -110,7 +129,9 @@ h1 {
 
 .boxok1 p {
     font-size: 20px; 
-    
+    background-color: #333;
+    color: white;
+    text-align: center;
 }
 
 #also_sor {
@@ -146,7 +167,19 @@ h1 {
 
 .boxok2 p {
     font-size: 20px; 
+    background-color: #333;
+    color: white;
+    text-align: center;
     
+}
+
+.boxok2 a {
+    background-color: #333;
+    color: white;
+}
+
+.boxok2 a:hover {
+    color: #d0bdf4;
 }
 
 
